@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Carapicuíba,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Nathalia</h1>
+<h1 align="center">Hi 👋, I'm Nathalia....</h1>
 <h3 align="center">Hey! My name is Nathalia. I'm a programmer. From the moment I produced "Hello World" on the console of my first application during my technical course, I knew I was in the software development world. However, software development was never "just a job" for me. It always offered an engaging challenge to continually learn and improve my skills in software creation. What started out as a simple "Hello World" has grown into a full-blown passion that only gets more exciting as the years go by.</h3>
 
 
